@@ -6,10 +6,9 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    body {
     font-family: "Outfit", sans-serif;
 }
-}
+
 
 div{
     padding: 1rem;
